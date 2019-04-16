@@ -11,8 +11,8 @@
     </mirror>
   </mirrors> -->
   <activeProfiles>
-    <!--make the profile active all the time -->
-    <activeProfile>nexus</activeProfile>
+    <!--make the profile active all the time
+    <activeProfile>nexus</activeProfile> -->
   </activeProfiles>
   <profiles>
     <profile>
