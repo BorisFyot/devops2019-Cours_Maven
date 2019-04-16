@@ -12,7 +12,7 @@
   </mirrors> -->
   <activeProfiles>
     <!--make the profile active all the time -->
-    <activeProfile>jenkins</activeProfile>
+    <activeProfile>nexus</activeProfile>
   </activeProfiles>
   <profiles>
     <profile>
