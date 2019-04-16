@@ -12,7 +12,7 @@
   </mirrors> -->
   <activeProfiles>
     <!--make the profile active all the time -->
-    <activeProfile>artifact</activeProfile>
+    <activeProfile>admin</activeProfile>
   </activeProfiles>
   <profiles>
     <profile>
