@@ -92,7 +92,7 @@
   	<distributionManagement>
     		<snapshotRepository>
       			<id>artifactory</id>
-      			<url>http://localhost:8081/artifactory/libs-snapshot/</url>
+      			<url>http://localhost:8081/artifactory/libs-release-local/</url>
     		</snapshotRepository>
 <!--    		<repository>
       			<id>nexus-releases</id>
